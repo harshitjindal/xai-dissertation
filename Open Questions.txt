@@ -1,0 +1,5 @@
+Open questions:
+1. Check class rebalancing after SMOTE. Maybe try looking at the support.
+2. Check what each leaf node of the decision tree means
+3. Why do we have (OBS = 0) in the decision tree visualization?
+4. How to handle numeric scaling with visualization of decision tree?
