@@ -4,3 +4,5 @@ Open questions:
 3. Why do we have (OBS = 0) in the decision tree visualization?
 4. How to handle numeric scaling with visualization of decision tree?
 5. Maybe try applying LIME and SHAP to inherently explainable models like LR
+6. What type of problem statements can EBM used for?
+7. LIME/SHAP on CNN/RNN/LSTM models?
