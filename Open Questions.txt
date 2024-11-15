@@ -6,3 +6,12 @@ Open questions:
 5. Maybe try applying LIME and SHAP to inherently explainable models like LR
 6. What type of problem statements can EBM used for?
 7. LIME/SHAP on CNN/RNN/LSTM models?
+
+
+Things to include:
+- certificate from handout
+- mentor evaluation
+- ppt
+- pdf of report
+- plag report
+- code (optional)
