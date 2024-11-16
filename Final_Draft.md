@@ -1,7 +1,8 @@
 # COVER
-# TITLE
-# ACKNOWLEDGEMENTS 
-# ABSTRACT 
+# TITLE (TODO: Check if page number needs to be removed)
+# CERTIFICATE
+# ACKNOWLEDGEMENTS
+# ABSTRACT (TODO: Check if a brief conclusion needs to be put here)
 # TABLE OF CONTENTS
 # LIST OF FIGURES AND TABLES 
 # LIST OF ABBREVIATIONS
