@@ -1,10 +1,10 @@
 # COVER
-# TITLE (TODO: Check if page number needs to be removed)
+# TITLE
 # CERTIFICATE
 # ACKNOWLEDGEMENTS
-# ABSTRACT (TODO: Check if a brief conclusion needs to be put here)
-# TABLE OF CONTENTS (TODO: Update once rest of the report is finalized)
-# LIST OF FIGURES AND TABLES (TODO: Update once rest of the report is finalized)
+# ABSTRACT
+# TABLE OF CONTENTS
+# LIST OF FIGURES AND TABLES
 # LIST OF ABBREVIATIONS
 # CHAPTER 1: INTRODUCTION
 - ## 1.1 BACKGROUND AND MOTIVATION
@@ -17,7 +17,7 @@
 - ## 2.2 TYPES OF EXPLANATIONS
 - ## 2.3 BROAD APPROACHES TO XAI
 - ## 2.4 REGULATORY CONTEXT 
-- ## 2.5 CHALLENGES AND GAPS (TODO: See if we need to add about Generative Models)
+- ## 2.5 CHALLENGES AND GAPS
 # CHAPTER 3: RESEARCH METHODOLOGY
 - ## 3.1 RESEARCH DESIGN
 - ## 3.2 MODELS AND TECHNIQUES
@@ -41,7 +41,7 @@
 - ## 5.4 Random Forest
     + LIME
     + SHAP
-# CHAPTER 6: DISCUSSION AND CONCLUSION (TODO)
+# CHAPTER 6: DISCUSSION AND CONCLUSION
 - ## 6.1 Comparison
 - Incl. when to use EBM over black-box models with LIME/SHAP
 
@@ -49,4 +49,3 @@
 # APPENDIX 
 - ## Link to code / Code PDF
 - ## Link to dataset
-- ## Link to presentation (TODO)
